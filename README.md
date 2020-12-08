@@ -4,11 +4,17 @@ This is the code that generates algorithm to solve rubik's cube........
 HOW TO USE THE CODE.......................................
 
 1-Initially you have to store the code in the fule named input.txt  (enter the path of the file in your input method in the code).
+
 2-You have to store the code in this form eg: 
+
                                             1-B L F' L' F2 R2 U' D2 R' L2 L' B' D D2 B R' B' F B R' U' F2 D2 R' B2
+                                            
   Seperated by spaces.
+  
 3-To generated the scramble you can also use the other file "scramble" to generate the number of scramble as you need by changing the value in for loop.The scramble will be stored in the input file.
+
 4-Now run the "Solver" file which will give you the set of algorithm to solve the rubik's cube.eg:
+
       
       1-B L F' L' F2 R2 U' D2 R' L2 L' B' D D2 B R' B' F B R' U' F2 D2 R' B2 
       cross track 1     B U R' U U R' U U U L'
