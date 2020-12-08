@@ -34,31 +34,57 @@ HOW TO USE THE CODE.......................................
 
 
 MEANING OF THE ALGORITHM GIVEN BY THE CODE.....................
+
 F=front clockwise
+
 F'=front anticlockwise
+
 U=up clockwise
+
 U'=up anticlockwise
+
 B=back clockwise
+
 B'=back anticlockwise
+
 D=down clockwise
+
 D'=down anticlockwise
+
 L=left clockwise
+
 L'=left anticlockwise
+
 R=right clockwise
+
 R'=right anticlockwise
+
 M=middle virticle clockwise
+
 M'=middle virticle anticlockwise
+
 MD=middle horizontal and down piece clockwise
+
 MD'=middle horizontal and down piece anticlockwise
+
 r=middle virticle and right piece clockwise
+
 r'=middle virticle and right piece anticlockwise
+
 l=middle virticle and left piece clockwise
+
 l'=middle virticle and left piece anticlockwise
+
 u=middle horizontal and up piece clockwise
+
 u'=middle horizontal and up piece anticlockwise
+
 x=rotate the cube clockwise along x axis
+
 x'=rotate the cube anticlockwise along x axis
+
 y=rotate the cube clockwise along y axis
+
 y'=rotate the cube anticlockwise along y axis
 
 
