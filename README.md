@@ -64,21 +64,21 @@ R=right clockwise
 
 R'=right anticlockwise
 
-M=middle virticle clockwise
+M=middle vertical clockwise
 
-M'=middle virticle anticlockwise
+M'=middle vertical anticlockwise
 
 MD=middle horizontal and down piece clockwise(seeing the right side)
 
 MD'=middle horizontal and down piece anticlockwise(seeing the right side)
 
-r=middle virticle and right piece clockwise(seeing the right side)
+r=middle vertical and right piece clockwise(seeing the right side)
 
-r'=middle virticle and right piece anticlockwise(seeing the right side)
+r'=middle vertical and right piece anticlockwise(seeing the right side)
 
-l=middle virticle and left piece clockwise(seeing the left side)
+l=middle vertical and left piece clockwise(seeing the left side)
 
-l'=middle virticle and left piece anticlockwise(seeing the left side)
+l'=middle vertical and left piece anticlockwise(seeing the left side)
 
 u=middle horizontal and up piece clockwise(seeing the upward side)
 
