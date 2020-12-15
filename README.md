@@ -16,7 +16,7 @@ HOW TO USE THE CODE.......................................
 
 6-Now place the cube in the same way as kept in second step.
 
-7-Hit start button.
+7-Hit "start solve" button.
 
 8-The program will generate series of algorithm(example given below) which when followed "STRICTLY", one can solve the cube. 
 
