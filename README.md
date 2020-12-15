@@ -3,19 +3,24 @@ This is the code that generates algorithm to solve rubik's cube........
 
 HOW TO USE THE CODE.......................................
 
-1-Initially you have to store the code in the fule named input.txt  (enter the path of the file in your input method in the code).
+1-Run the code.
 
-2-You have to store the code in this form eg: 
+2-Place the cube with the front face red and down face white.
 
-                                            1-B L F' L' F2 R2 U' D2 R' L2 L' B' D D2 B R' B' F B R' U' F2 D2 R' B2
-                                            
-  Seperated by spaces.
+3-Enter the color of each piece on red side and now rotate the cube clockwise along the y axis,  again enter the color of each piece on the green side,and the rotate as before,
+ in the same way enter the value for orange side and bule side, atlast come to the red side facing forward.
+ 
+4-Now after entering the value of four side rotate the cube along the x axis so that yellow facing side comes front.Again enter the color of all piece.
+
+5-Now again rotate the cube along the x axis so that white face comes front.Again enter the color of all piece.
+
+6-Now place the cube in the same way as kept in second step.
+
+7-Hit start button.
+
+8-The program will generate series of algorithm(example given below) which when followed "STRICTLY", one can solve the cube. 
+
   
-3-To generated the scramble you can also use the other file "scramble" to generate the number of scramble as you need by changing the value in for loop.The scramble will be stored in the input file.
-
-4-Now run the "Solver" file which will give you the set of algorithm to solve the rubik's cube.eg:
-
-      
       1-B L F' L' F2 R2 U' D2 R' L2 L' B' D D2 B R' B' F B R' U' F2 D2 R' B2 
       cross track 1     B U R' U U R' U U U L'
       cross track     U L L U' R R U' F F U B B
@@ -63,28 +68,28 @@ M=middle virticle clockwise
 
 M'=middle virticle anticlockwise
 
-MD=middle horizontal and down piece clockwise
+MD=middle horizontal and down piece clockwise(seeing the right side)
 
-MD'=middle horizontal and down piece anticlockwise
+MD'=middle horizontal and down piece anticlockwise(seeing the right side)
 
-r=middle virticle and right piece clockwise
+r=middle virticle and right piece clockwise(seeing the right side)
 
-r'=middle virticle and right piece anticlockwise
+r'=middle virticle and right piece anticlockwise(seeing the right side)
 
-l=middle virticle and left piece clockwise
+l=middle virticle and left piece clockwise(seeing the left side)
 
-l'=middle virticle and left piece anticlockwise
+l'=middle virticle and left piece anticlockwise(seeing the left side)
 
-u=middle horizontal and up piece clockwise
+u=middle horizontal and up piece clockwise(seeing the upward side)
 
-u'=middle horizontal and up piece anticlockwise
+u'=middle horizontal and up piece anticlockwise(seeing the upward side)
 
-x=rotate the cube clockwise along x axis
+x=rotate the cube clockwise along x axis(seeing the right side)
 
-x'=rotate the cube anticlockwise along x axis
+x'=rotate the cube anticlockwise along x axis(seeing the right side)
 
-y=rotate the cube clockwise along y axis
+y=rotate the cube clockwise along y axis(seeing the upward side)
 
-y'=rotate the cube anticlockwise along y axis
+y'=rotate the cube anticlockwise along y axis(seeing the upward side)
 
 
