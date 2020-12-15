@@ -34,8 +34,6 @@ HOW TO USE THE CODE.......................................
             SOLVED
       1
       
-      
-5-THE END.....................................................................
 
 
 MEANING OF THE ALGORITHM GIVEN BY THE CODE.....................
@@ -91,5 +89,7 @@ x'=rotate the cube anticlockwise along x axis(seeing the right side)
 y=rotate the cube clockwise along y axis(seeing the upward side)
 
 y'=rotate the cube anticlockwise along y axis(seeing the upward side)
+
+..............................................................THE END.....................................................................
 
 
